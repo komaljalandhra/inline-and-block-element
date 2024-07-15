@@ -1,0 +1,161 @@
+*{
+    margin: 12px;
+    padding: 3px;
+}
+body{
+    background-color: rgb(217, 214, 233);
+}
+
+
+p{
+    background-color: aqua;
+    
+
+}
+div{
+    background-color: rgb(44, 11, 114);
+    color: white;
+}
+h4{
+    background-color: aqua;
+   
+}
+li{
+    background-color: aqua;
+   
+}
+form{
+    background-color: aqua;
+    
+}
+
+table{
+    border:6px solid black;
+    border-radius:3px;
+    border-color: rgb(95, 140, 232);
+    text-align: center;
+    color: rgb(1, 1, 17);
+}
+section{
+    background-color: aqua;
+    
+}
+header{
+    background-color: aqua;
+   
+}
+footer{
+    background-color: aqua;
+   
+    
+    
+}
+nav{
+    background-color: aqua;
+    
+}
+article{
+    background-color: aqua;
+    
+}
+main{
+    background-color: aqua;
+   
+}
+
+
+dl{
+    background-color: aqua;
+   
+}
+dt{
+    background-color: aqua;
+    border:3px solid black;
+    border-radius:30px;
+    border-color: rgb(26, 28, 32);
+    text-align: center;
+    color: rgb(10, 10, 15);
+}
+dd{
+    background-color: aqua;
+}
+figure{
+    background-color: aqua;
+}
+figcaption{
+    background-color: aqua;
+}
+address{
+    background-color: aqua;
+}
+tfoot{
+    background-color: aqua;
+}
+
+a{
+    background-color: rgb(169, 215, 254);border-radius: 3px; 
+}
+span{
+    background-color: aqua;
+}
+input{
+    background-color: aqua;
+}
+label{
+    background-color: aqua;
+}
+strong{ 
+    background-color: aqua;
+}
+em{
+    background-color: aqua;
+}
+code{
+    background-color: aqua;
+}
+b{ 
+    background-color: aqua;
+}
+i{
+    background-color: aqua;
+}
+u{
+    background-color: aqua;
+}
+small{ 
+    background-color: aqua;
+}
+sub{
+    background-color: aqua;
+}
+sup{
+    background-color: aqua;
+}
+q{
+    background-color: aqua;
+}
+cite{
+    background-color: aqua;
+}
+kbd{
+    background-color: aqua;
+}
+samp{ 
+    background-color: aqua;
+}
+var{ 
+    background-color: aqua;
+}
+time{
+    background-color: aqua;
+}
+abbr{
+    background-color: aqua;
+}
+data{
+    background-color: aqua;
+}
+acronym{
+    background-color: aqua;
+}
+
